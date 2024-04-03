@@ -23,7 +23,7 @@ namespace QLKS
             DataSet ds = kn.LayDuLieu(query);
             dgvThongKe.DataSource = ds.Tables[0];
         }
-
+        // Lay du lieu Thong ke
 
         public void UpdateTotalRevenueInThongKe()
         {
