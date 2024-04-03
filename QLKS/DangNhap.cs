@@ -15,7 +15,7 @@ namespace QLKS
         {
             InitializeComponent();
         }
-
+        // Dang Nhap
         KetNoi kn = new KetNoi();
 
         private void button1_Click(object sender, EventArgs e)
