@@ -15,6 +15,7 @@ namespace QLKS
         {
             InitializeComponent();
         }
+        //hello
 
         public string MaHoaDon{ get; set; }
         public string MaNhanVien { get; set; }
